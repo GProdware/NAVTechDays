@@ -1,0 +1,23 @@
+{
+  "id": "45302be9-349a-48fe-8f21-2f7bf7db8a1a",
+  "name": "NAVTechDays",
+  "publisher": "D.E Veloper",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.1",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "13.0.0.0",
+  "application": "13.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  "runtime": "2.0"
+}
