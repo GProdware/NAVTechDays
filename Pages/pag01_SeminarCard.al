@@ -1,7 +1,5 @@
 page 50101 "CSD Seminar Card"
 // CSD1.00 - 2018-01-01 - D. E. Veloper
-// Chapter 5 - Lab 2-4 & Lab 2-5
-
 {
     PageType = Card;
     SourceTable = "CSD Seminar";

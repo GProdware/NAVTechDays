@@ -5,7 +5,7 @@ page 50100 "CSD Seminar Setup"
     PageType = Card;
     ApplicationArea = All;
     UsageCategory = Administration;
-    SourceTable = "CDS Seminar Setup";
+    SourceTable = "CSD Seminar Setup";
     Caption = 'Seminar Setup';
     InsertAllowed = false;
     DeleteAllowed = false;

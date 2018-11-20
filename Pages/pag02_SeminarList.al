@@ -1,6 +1,5 @@
 page 50102 "CSD Seminar List"
 // CSD1.00 - 2018-01-01 - D. E. Veloper
-// Chapter 5 - Lab 3-6
 {
     Caption = 'Seminar List';
     PageType = List;

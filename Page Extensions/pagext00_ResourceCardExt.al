@@ -1,16 +1,16 @@
-pageextension 50100 "CDS ResourceCardExt" extends "Resource Card"
+pageextension 50100 "CSD ResourceCardExt" extends "Resource Card"
 // CSD1.00 - 2018-02-01 - D. E. Veloper
 {
     layout
     {
         addlast(General)
         {
-            field("CDS Resource Type"; "CDS Resource Type")
+            field("CSD Resource Type"; "CSD Resource Type")
             {
 
             }
 
-            field("CDS Quantity Per Day"; "CDS Quantity Per Day")
+            field("CSD Quantity Per Day"; "CSD Quantity Per Day")
             {
 
             }
@@ -19,11 +19,11 @@ pageextension 50100 "CDS ResourceCardExt" extends "Resource Card"
 
         addafter("Personal Data")
         {
-            group("CDS Room")
+            group("CSD Room")
             {
                 Caption = 'Room';
                 Visible = ShowMaxField;
-                field("CDS Maximum Participants"; "CDS Maximum Participants")
+                field("CSD Maximum Participants"; "CSD Maximum Participants")
                 {
 
                 }

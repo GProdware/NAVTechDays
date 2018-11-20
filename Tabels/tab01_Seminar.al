@@ -101,7 +101,7 @@ table 50101 "CSD Seminar"
     }
 
     var
-        SeminarSetup: Record "CDS Seminar Setup";
+        SeminarSetup: Record "CSD Seminar Setup";
         Seminar: Record "CSD Seminar";
         GenProdPostingGroup: Record "Gen. Product Posting Group";
         NoSeriesMgt: Codeunit NoSeriesManagement;
